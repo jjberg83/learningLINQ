@@ -1,0 +1,15 @@
+/Users/jjberg/Github/learningLINQ/learningLINQ/bin/Debug/net7.0/learningLINQ
+/Users/jjberg/Github/learningLINQ/learningLINQ/bin/Debug/net7.0/learningLINQ.deps.json
+/Users/jjberg/Github/learningLINQ/learningLINQ/bin/Debug/net7.0/learningLINQ.runtimeconfig.json
+/Users/jjberg/Github/learningLINQ/learningLINQ/bin/Debug/net7.0/learningLINQ.dll
+/Users/jjberg/Github/learningLINQ/learningLINQ/bin/Debug/net7.0/learningLINQ.pdb
+/Users/jjberg/Github/learningLINQ/learningLINQ/obj/Debug/net7.0/learningLINQ.csproj.AssemblyReference.cache
+/Users/jjberg/Github/learningLINQ/learningLINQ/obj/Debug/net7.0/learningLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Github/learningLINQ/learningLINQ/obj/Debug/net7.0/learningLINQ.AssemblyInfoInputs.cache
+/Users/jjberg/Github/learningLINQ/learningLINQ/obj/Debug/net7.0/learningLINQ.AssemblyInfo.cs
+/Users/jjberg/Github/learningLINQ/learningLINQ/obj/Debug/net7.0/learningLINQ.csproj.CoreCompileInputs.cache
+/Users/jjberg/Github/learningLINQ/learningLINQ/obj/Debug/net7.0/learningLINQ.dll
+/Users/jjberg/Github/learningLINQ/learningLINQ/obj/Debug/net7.0/refint/learningLINQ.dll
+/Users/jjberg/Github/learningLINQ/learningLINQ/obj/Debug/net7.0/learningLINQ.pdb
+/Users/jjberg/Github/learningLINQ/learningLINQ/obj/Debug/net7.0/learningLINQ.genruntimeconfig.cache
+/Users/jjberg/Github/learningLINQ/learningLINQ/obj/Debug/net7.0/ref/learningLINQ.dll
